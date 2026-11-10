@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/formatho/sha256-generator?style=social)](https://github.com/formatho/sha256-generator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Privacy First](https://img.shields.io/badge/Privacy-First%20%F0%9F%94%92-success)](https://formatho.com)
-[![Try Online](https://img.shields.io/badge/Try%20Online-Online%20%F0%9F%8C%90-blue)](https://formatho.com/sha256-generator)
+[![Try Online](https://img.shields.io/badge/Try%20Online-Online%20%F0%9F%8C%90-blue)](https://formatho.com/tools/hash-text)
 
 A fast, secure, and privacy-first SHA-256 hash generator that computes SHA-256 checksums entirely in your browser. No data is ever sent to a server, ensuring complete privacy and security for your sensitive data.
 
@@ -69,7 +69,7 @@ SHA-256: dffd6021bb2bd5b0af676290809ec3a53191dd81c7f70a4b28688a362182986f
 
 ### Web App
 
-Visit [formatho.com/sha256-generator](https://formatho.com/sha256-generator) and:
+Visit [formatho.com/tools/hash-text](https://formatho.com/tools/hash-text) and:
 
 1. **Text**: Enter text in the input field
 2. **File**: Upload a file to hash
@@ -190,7 +190,7 @@ At Formatho, we believe in privacy-first development:
 
 ### For Web App
 
-No installation required! Visit [formatho.com/sha256-generator](https://formatho.com/sha256-generator).
+No installation required! Visit [formatho.com/tools/hash-text](https://formatho.com/tools/hash-text).
 
 ### For NPM Package
 
@@ -305,7 +305,7 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 - [MD5 Generator](https://github.com/formatho/md5-generator) - Generate MD5 hashes
 - [Hash Generator](https://github.com/formatho/hash-generator) - Multiple hash algorithms
 - [JSON Formatter](https://github.com/formatho/json-formatter) - Format and validate JSON data
-- [File Hash Checker](https://formatho.com/file-hash-checker) - Verify file integrity
+- [File Hash Checker](https://formatho.com/tools) - Verify file integrity
 
 ## 💬 Support
 
@@ -323,7 +323,7 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 
 Privacy-first developer tools, 100+ utilities with zero tracking.
 
-[Try Online](https://formatho.com/sha256-generator) | [More Tools](https://formatho.com) | [Privacy Policy](https://formatho.com/privacy)
+[Try Online](https://formatho.com/tools/hash-text) | [More Tools](https://formatho.com) | [Privacy Policy](https://formatho.com/privacy)
 ## ⚡ Free API — Cloudflare Worker
 
 This tool is also available as a free, zero-tracking API deployed on Cloudflare Workers:
@@ -334,5 +334,5 @@ Deploy it yourself: the complete Worker source is in [`worker/`](./worker) — `
 
 ## 🔗 Links
 
-- [Online tool](https://formatho.com/sha256-generator)
+- [Online tool](https://formatho.com/tools/hash-text)
 - [Live API](https://sha256-generator-formatho.filesformatho.workers.dev)

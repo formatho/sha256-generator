@@ -6,7 +6,7 @@ const JSON_HEADERS = {
   'Access-Control-Allow-Origin': '*',
   'X-Privacy-Policy': 'Zero tracking, zero data collection',
 };
-const FULL_TOOL = 'https://formatho.com/sha256-generator';
+const FULL_TOOL = 'https://formatho.com/tools/hash-text';
 
 export default {
   async fetch(request) {
